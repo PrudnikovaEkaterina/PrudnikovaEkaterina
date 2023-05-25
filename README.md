@@ -1,4 +1,4 @@
-<h1>Добро пожаловать и привет!</br> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1>Добро пожаловать!</br> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2>Меня зовут Екатерина. С ноября 2021 годя - я инженер по тестированию программного обеспечения.:sunglasses:</h2>
 <h2> :trophy:  Мои инструменты и технологии:</h2>
 
