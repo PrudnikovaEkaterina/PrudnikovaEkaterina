@@ -8,6 +8,6 @@
 |<img width="30%" title="Northwest Public Service Academy" src="icons/un_images.jpg">|[ЛГУимВД](http://dahluniver.ru/)| Бухгалтерский учет и аудит|
 |:-|:-|:-|
 
-|<img width="20%" title="QAGuru.png" src="icons/QAGuru.png">|[qa.guru](https://qa.guru)| <h3>Automation QA Engineer (2023)</h3>|
+|<img width="20%" title="QAGuru.png" src="icons/qa-guru80.png">|[qa.guru](https://qa.guru)| <h3>Automation QA Engineer (2023)</h3>|
 
 ![KatasonovaMasa GitHub stats](https://github-readme-stats.vercel.app/api?username=KatasonovaMasa)
