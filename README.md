@@ -7,14 +7,14 @@
 
 |<img width="30%" title="Northwest Public Service Academy" src="icons/un_images.jpg">|[ЛГУимВД](http://dahluniver.ru/)| Бухгалтерский учет и аудит (2011)|
 |:-|:-|:-|
-|<img width="60%" title="QAGuru.png" src="icons/qa-guru80.png">|[qa.guru](https://qa.guru)|<h3>Automation QA Engineer (2023)</h3>
+|<img width="60%" title="QAGuru.png" src="icons/qa-guru80.png">|[qa.guru](https://qa.guru)|<h4>Automation QA Engineer (2023)</h4>
 
 
 ## :trophy:Мои рабочие проекты:
 
 |<img width="40%" title="move.ru" src="icons/Frame 5 (2).png">|[move.ru](https://move.ru/)| Manual QA с 2022 г.|
 |:-|:-|:-|
-|<img width="40%" title="novo-estate.ru" src="icons/Frame 7.png">|[novo-estate.ru](https://novo-estate.ru/)| Manual QA с 2022 г., Automation QA Engineer c 2023 г. |
+|<img width="40%" title="novo-estate.ru" src="icons/Frame 7.png">|[novo-estate.ru](https://novo-estate.ru/)|<h4> Manual QA с 2022 г., Automation QA Engineer c 2023 г.</h4>
 
 
 ![PrudnikovaEkaterina GitHub stats](https://github-readme-stats.vercel.app/api?username=PrudnikovaEkaterina)
