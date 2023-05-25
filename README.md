@@ -1,5 +1,5 @@
 <h1>Добро пожаловать и привет!</br> 
-  Меня зовут Екатерина <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  Меня зовут Екатерина. С 2022 года я - инженер по тестированию программного обеспечения. <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2>Я  QA Engineer:sunglasses:</h2>
 <h2> :trophy:  Мои инструменты и технологии:</h2>
 
