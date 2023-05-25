@@ -10,4 +10,11 @@
 |<img width="60%" title="QAGuru.png" src="icons/qa-guru80.png">|[qa.guru](https://qa.guru)|<h3>Automation QA Engineer (2023)</h3>
 
 
+## :trophy:Мои рабочие проекты:
+
+|<img width="30%" title="Northwest Public Service Academy" src="icons/Frame 5 (2).png">|[move.ru][(https://move.ru/)| Ручной тестировщик с 2022 г.|
+|:-|:-|:-|
+|<img width="60%" title="QAGuru.png" src="icons/qa-guru80.png">|[qa.guru](https://qa.guru)|<h3>Automation QA Engineer (2023)</h3>
+
+
 ![PrudnikovaEkaterina GitHub stats](https://github-readme-stats.vercel.app/api?username=PrudnikovaEkaterina)
