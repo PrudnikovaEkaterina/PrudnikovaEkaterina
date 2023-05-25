@@ -1,4 +1,4 @@
-<h1>Добро пожаловать и привет!!</br> 
+<h1>Добро пожаловать и привет!</br> 
   Меня зовут Екатерина <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2>Я  QA Engineer:sunglasses:</h2>
 <h2> :trophy:  Мои инструменты и технологии:</h2>
