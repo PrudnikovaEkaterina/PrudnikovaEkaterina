@@ -6,7 +6,7 @@
 ## :trophy:Мое образование:
 
 |<img width="30%" title="Northwest Public Service Academy" src="icons/un_images.jpg">|[ЛГУимВД](http://dahluniver.ru/)| Бухгалтерский учет и аудит|
-|:-|:-|:-|
+
 
 |<img width="20%" title="QAGuru.png" src="icons/qa-guru80.png">|[qa.guru](https://qa.guru)| <h3>Automation QA Engineer (2023)</h3>|
 
