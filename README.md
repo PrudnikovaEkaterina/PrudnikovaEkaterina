@@ -10,4 +10,4 @@
 |<img width="50%" title="QAGuru.png" src="icons/qa-guru80.png">|[qa.guru](https://qa.guru)|<h3>Automation QA Engineer (2023)</h3>
 |:-|:-|:-|
 
-![KatasonovaMasa GitHub stats](https://github-readme-stats.vercel.app/api?username=KatasonovaMasa)
+![PrudnikovaEkaterina GitHub stats](https://github-readme-stats.vercel.app/api?username=PrudnikovaEkaterina)
