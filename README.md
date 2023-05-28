@@ -14,7 +14,7 @@
 
 |<img width="40%" title="move.ru" src="icons/Frame 5 (2).png">|[move.ru](https://move.ru/)| Manual QA с 2022 г.|
 |:-|:-|:-|
-|<img width="40%" title="novo-estate.ru" src="icons/Frame 7.png">|[novo-estate.ru](https://novo-estate.ru/)|<h4> Manual QA с 2022 г., Automation QA Engineer c 2023 г.</h4>
+|<img width="40%" title="novo-estate.ru" src="icons/Frame 7.png">|[novo-estate.ru](https://novo-dom.ru/)|<h4> Manual QA с 2022 г., Automation QA Engineer c 2023 г.</h4>
 
 
 ![PrudnikovaEkaterina GitHub stats](https://github-readme-stats.vercel.app/api?username=PrudnikovaEkaterina)
