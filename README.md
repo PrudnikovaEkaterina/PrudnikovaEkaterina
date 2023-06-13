@@ -18,7 +18,7 @@
 
 ### Контакты
 
-|<img width="40%" title="https://t.me/katia_prud" src="1663789307_3-phonoteka-org-p-znachok-telegramma-bez-fona-krasivo-4.png">|[Telegram]
+|<img width="40%" title="https://t.me/katia_prud" src="icons/Telegram.png">|[Telegram]
 
 
 ![PrudnikovaEkaterina GitHub stats](https://github-readme-stats.vercel.app/api?username=PrudnikovaEkaterina)
