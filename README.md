@@ -20,8 +20,5 @@
 
 [![Telegram](https://github.com/PrudnikovaEkaterina/PrudnikovaEkaterina/blob/main/icons/telegram1.svg))](https://t.me/katia_prud)
 
-<img width="8%" title="Telegram" src="icons/Telegram.png"> [Telegram](https://t.me/katia_prud)
-
-
 
 ![PrudnikovaEkaterina GitHub stats](https://github-readme-stats.vercel.app/api?username=PrudnikovaEkaterina)
