@@ -18,7 +18,7 @@
 
 ### Контакты
 
-[![Telegram](https://github.com/PrudnikovaEkaterina/PrudnikovaEkaterina/blob/main/icons/telegram1.svg))](https://t.me/katia_prud)
+[![Telegram](https://github.com/PrudnikovaEkaterina/PrudnikovaEkaterina/blob/main/icons/telegram1.svg)](https://t.me/katia_prud)
 
 
 ![PrudnikovaEkaterina GitHub stats](https://github-readme-stats.vercel.app/api?username=PrudnikovaEkaterina)
