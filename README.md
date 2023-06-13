@@ -16,5 +16,10 @@
 |:-|:-|:-|
 |<img width="40%" title="novo-estate.ru" src="icons/Frame 7.png">|[novo-dom.ru](https://novo-dom.ru/)|<h4> Manual QA с 2022 г., Automation QA Engineer c 2023 г.</h4>
 
+### Контакты
+
+[![Telegram](.github/logo/telegram1.svg)](https://t.me/katia_prud)
+
+
 
 ![PrudnikovaEkaterina GitHub stats](https://github-readme-stats.vercel.app/api?username=PrudnikovaEkaterina)
