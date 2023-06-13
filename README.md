@@ -18,8 +18,8 @@
 
 ### Контакты
 
-<img width="5%" title="Telegram" src="icons/Telegram.png"> [Telegram](https://t.me/katia_prud)
-[![Telegram](.icons/Telegram.png)](https://t.me/katia_prud)
+<img width="4%" title="Telegram" src="icons/Telegram.png"> [Telegram](https://t.me/katia_prud)
+
 
 
 ![PrudnikovaEkaterina GitHub stats](https://github-readme-stats.vercel.app/api?username=PrudnikovaEkaterina)
