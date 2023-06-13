@@ -18,7 +18,7 @@
 
 ### Контакты
 
-[![Telegram](.github/logo/telegram1.svg)](https://t.me/katia_prud)
+[![Telegram](1663789307_3-phonoteka-org-p-znachok-telegramma-bez-fona-krasivo-4.png)](https://t.me/katia_prud)
 
 
 
