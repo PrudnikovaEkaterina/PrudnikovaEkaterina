@@ -18,7 +18,7 @@
 
 ### Контакты
 
-<img width="4%" title="Telegram" src="icons/Telegram.png"> [Telegram](https://t.me/katia_prud)
+<img width="8%" title="Telegram" src="icons/Telegram.png"> [Telegram](https://t.me/katia_prud)
 
 
 
