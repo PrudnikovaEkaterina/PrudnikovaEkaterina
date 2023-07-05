@@ -2,7 +2,7 @@
 <h2>Меня зовут Екатерина. С января 2022 года - я инженер по тестированию программного обеспечения.:cherry_blossom:</h2>
 <h2> :trophy:  Мои инструменты и технологии:</h2>
 
-![This is an image](icons/Java.png)![This is an image](icons/Gradle.png)![This is an image](icons/Intelij_IDEA.png)![This is an image](icons/Selenide.png)![This is an image](icons/Selenoid.png)![This is an image](icons/JUnit5.png)![This is an image](icons/Jenkins.png)![This is an image](icons/Allure_Report.png)![This is an image](icons/AllureTestOps.png)![This is an image](icons/Telegram.png)</br>
+![This is an image](icons/Java.png)![This is an image](icons/Gradle.png)![This is an image](icons/Intelij_IDEA.png)![This is an image](icons/Selenide.png)![This is an image](icons/Selenoid.png)![This is an image](icons/JUnit5.png)![This is an image](icons/Jenkins.png)![This is an image](icons/Allure_Report.png)![This is an image](icons/AllureTestOps.png)</br>
 ## :trophy:Мое образование:
 
 |<img width="30%" title="Northwest Public Service Academy" src="icons/un_images.jpg">|[ЛГУимВД](http://dahluniver.ru/)| Бухгалтерский учет и аудит (2011)|
