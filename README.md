@@ -10,6 +10,11 @@
 |<img width="60%" title="QAGuru.png" src="icons/qa-guru80.png">|[qa.guru](https://qa.guru)|<h4>Automation QA Engineer (2023)</h4>
 
 
+## :trophy:Мои сертификаты:
+
+|<img width="60%" title="QAGuru.png" src="icons/photo_5249025609030551720_y.jpg">|[QA Guru Test Automation School](https://qa.guru)|<h4>Automation QA Engineer (2023)</h4>
+
+
 ## :trophy:Мои рабочие проекты:
 
 |<img width="40%" title="move.ru" src="icons/Frame 5 (2).png">|[move.ru](https://move.ru/)| Manual QA с 2022 г.|
