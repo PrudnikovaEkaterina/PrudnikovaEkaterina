@@ -8,8 +8,8 @@
 |<img width="30%" title="Northwest Public Service Academy" src="icons/un_images.jpg">|[ЛГУимВД](http://dahluniver.ru/)| Бухгалтерский учет и аудит (2011)|
 |:-|:-|:-|
 |<img width="60%" title="QAGuru.png" src="icons/qa-guru80.png">|[qa.guru](https://qa.guru)|<h4>Automation QA Engineer (2023)</h4>
-
-
+|:-|:-|:-|
+|:-|:-|:-|
 ## :trophy:Мои сертификаты:
 
 <img width="40%" title="QAGuru.png" src="icons/photo_5249025609030551720_y.jpg">
