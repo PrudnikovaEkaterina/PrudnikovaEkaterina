@@ -11,7 +11,7 @@
 
 
 ## :trophy:Мои сертификаты:
-|[QA Guru Test Automation School](https://qa.guru)|
+
 |<img width="40%" title="QAGuru.png" src="icons/photo_5249025609030551720_y.jpg">|
 
 
