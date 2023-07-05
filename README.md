@@ -12,7 +12,7 @@
 
 ## :trophy:Мои сертификаты:
 
-|<img width="60%" title="QAGuru.png" src="icons/photo_5249025609030551720_y.jpg">|[QA Guru Test Automation School](https://qa.guru)|<h4>Automation QA Engineer (2023)</h4>
+|<img width="30%" title="QAGuru.png" src="icons/photo_5249025609030551720_y.jpg">|[QA Guru Test Automation School](https://qa.guru)|
 
 
 ## :trophy:Мои рабочие проекты:
