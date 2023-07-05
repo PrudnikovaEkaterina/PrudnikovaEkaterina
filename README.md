@@ -12,7 +12,7 @@
 
 ## :trophy:Мои сертификаты:
 
-|<img width="40%" title="QAGuru.png" src="icons/photo_5249025609030551720_y.jpg">
+<img width="40%" title="QAGuru.png" src="icons/photo_5249025609030551720_y.jpg">
 
 
 ## :trophy:Мои рабочие проекты:
